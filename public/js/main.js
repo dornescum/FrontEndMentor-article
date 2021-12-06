@@ -2,7 +2,7 @@ const iconsActivate = document.getElementById('icons-activate');
 const activ = document.getElementById('activ');
 const width = innerWidth;
 
-console.log("%c Challenge only for iphone and desktop X",  'background: #222; color: #bada55');
+console.log("%c Challenge only for iphone X and desktop",  'background: #222; color: #bada55');
 
 activ.addEventListener('click', () => {
 	iconsActivate.classList.toggle('active');

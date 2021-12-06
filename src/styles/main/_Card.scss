@@ -49,7 +49,7 @@
       color: $blue1;
       padding: 2rem 4rem 1rem 3rem;
       margin: 0;
-      font-size: 1.6rem;
+      font-size: 1.4rem;
       font-weight: bolder;
       letter-spacing: 1.1px;
       line-height: 30px;
@@ -74,7 +74,7 @@
 
     .desc-footer {
       @include flex-sb;
-      padding: 1rem 2rem 2rem 3rem;
+      padding: 2rem 2rem 2rem 3rem;
       @media (max-width: $xs) {
         padding:1.5rem 1.5rem 1.5rem 1.5rem;
       }
