@@ -1,3 +1,4 @@
+
 .card {
   @include display_flex;
   background: $white;
@@ -33,10 +34,8 @@
         border-bottom-left-radius: 0;
         border-top-right-radius: $radius;
         height: 11rem;
-
       }
     }
-
   }
 
   .right {
